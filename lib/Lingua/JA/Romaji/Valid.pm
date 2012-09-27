@@ -3,7 +3,7 @@ package Lingua::JA::Romaji::Valid;
 use strict;
 use warnings;
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 my %aliases = (
   loose         => 'ISO3602Loose',
